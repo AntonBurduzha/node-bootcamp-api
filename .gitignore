@@ -2,4 +2,6 @@ node_modules/
 
 config/config.env
 
+_data/
+
 .vscode/settings.json

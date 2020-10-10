@@ -5,6 +5,6 @@
 /.vscode
 
 # misc
-/config
+/config/config.env
 
 npm-debug.log*
